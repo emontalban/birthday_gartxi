@@ -7,26 +7,16 @@ background-color: #11112b;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 400px;
+    height: 430px;
     margin-top: -4px;
 }
 .footer > .logo-footer img{
     opacity: 0.5;
-    width: 180px;
+    width: 160px;
     height: 100%;
+ 
 }
-.footer >.footer-phone-hours span{
-    letter-spacing: 2px;
-    margin-left: 10px;
-    margin-right: 10px;
-    font-size: 1em;
-}
-.footer >.footer-phone-hours> .hours{
-    color: #cea135;
-    font-size: 0.8em;
-    text-transform: uppercase;;
 
-}
 .footer > .links-wrapper 
 {
     margin-top: 40px;
@@ -35,23 +25,7 @@ background-color: #11112b;
 
 }
 
-.footer > .social-media-icons-wrapper {
-   display: flex;
-   justify-content: space-around;
-   width: 300px;
-   margin-top: 40px;
-   margin-bottom: 40px;
-}
-.footer > .social-media-icons-wrapper a{
-    color: #cbcbcb;
-    font-size: 1.5em;
-    transition: 0.5s;
-}
 
-.footer > .social-media-icons-wrapper a:hover{
-    color: #cea135;
-    
-}
 .footer > .copyright-wrapper {
     font-size: 0.7em;
     opacity: 0.5;

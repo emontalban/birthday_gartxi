@@ -40,8 +40,9 @@
 
 
 .navigation-wrapper > .center-column > .banner-image img {
-    width: 216px;
+    width: 230px;
     height: 100%;
+    opacity:0.7;
 }
 
 .navigation-wrapper > .center-column {
@@ -61,7 +62,7 @@
     align-items: center;
 }
 .links-wrapper > .nav-link {
-    width: 70px;
+    width: 80px;
     text-align: center;
 }
 .links-wrapper > .nav-link a {
